@@ -1,4 +1,4 @@
-<h1 align="center">Hi 😉, I'm Smriti Pradhan</h1>
+<h1 align="center">Hi , I'm Smriti Pradhan</h1>
 <h3 align="center">Aspiring Full Stack Developer</h3>
 
 - 🔭 I’m currently working on **React**
